@@ -1,1 +1,1 @@
-This a Chat Messenger project wherein two systems can get connected to each other over a port and can share messages, files, etc.
+This a Chat Messenger project wherein two systems can get connected to each other using TCP (IP address and a port number) and can share messages, files, etc.
